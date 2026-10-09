@@ -1,5 +1,7 @@
 using System.Text.Json.Serialization;
+
 using Agentory.TaskApi.Data;
+
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
